@@ -6,11 +6,11 @@
     <description>A show about the internet, how it's built and the people who use it.</description>
     <atom:link href="http://hosttheworld.org/feed.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <itunes:image>
+    <image>
       <url>http://hosttheworld.org/media/cover.jpg</url>
       <title>Host The World</title>
       <link>http://hosttheworld.org/feed.rss</link>
-    </itunes:image>
+    </image>
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2019 02:51:47 +0000</lastBuildDate>
     <itunes:category text="Technology">
