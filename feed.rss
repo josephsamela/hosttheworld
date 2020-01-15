@@ -6,14 +6,20 @@
     <description>A show about the internet, how it's built and the people who use it.</description>
     <atom:link href="http://hosttheworld.org/feed.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <image>
+    <itunes:image>
       <url>http://hosttheworld.org/media/cover.jpg</url>
       <title>Host The World</title>
       <link>http://hosttheworld.org/feed.rss</link>
-    </image>
+    </itunes:image>
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2019 02:51:47 +0000</lastBuildDate>
+    <itunes:category text="Technology">
+        <itunes:category text="Information Technology"/>
+        <itunes:category text="Computers"/>
+        <itunes:category text="Operating Systems"/>
+        <itunes:category text="Developers"/>
+    </itunes:category>
+    <itunes:owner>j3samela@itunes.com</itunes:owner>
     <itunes:block>yes</itunes:block>
     <itunes:complete>yes</itunes:complete>
     <item>
@@ -23,12 +29,6 @@
       <guid isPermaLink="false">http://hosttheworld.org/media/episodes/0 - Introduction.mp3</guid>
       <enclosure url="http://hosttheworld.org/media/episodes/0 - Introduction.mp3" length="1198080" type="audio/mpeg"/>
       <pubDate>Tue, 1 Jan 2019 12:01:00 +0000</pubDate>
-      <itunes:category text="Technology">
-            <itunes:category text="Information Technology"/>
-            <itunes:category text="Computers"/>
-            <itunes:category text="Operating Systems"/>
-            <itunes:category text="Developers"/>
-      </itunes:category>
       <itunes:duration>01:09</itunes:duration>
       <itunes:order>1</itunes:order>
       <itunes:explicit>no</itunes:explicit>
@@ -43,12 +43,6 @@
       <guid isPermaLink="false">https://josephsamela.github.io/show/media/episodes/19.01 - phpVirtualBox.mp3</guid>
       <enclosure url="http://hosttheworld.org/media/episodes/19.01 - phpVirtualBox.mp3" length="1198080" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jan 2019 12:01:00 +0000</pubDate>
-      <itunes:category text="Technology">
-            <itunes:category text="Information Technology"/>
-            <itunes:category text="Computers"/>
-            <itunes:category text="Operating Systems"/>
-            <itunes:category text="Developers"/>
-      </itunes:category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>10:21</itunes:duration>
       <itunes:order>2</itunes:order>
