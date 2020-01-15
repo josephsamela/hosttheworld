@@ -23,8 +23,15 @@
       <guid isPermaLink="false">http://hosttheworld.org/media/episodes/0 - Introduction.mp3</guid>
       <enclosure url="http://hosttheworld.org/media/episodes/0 - Introduction.mp3" length="1198080" type="audio/mpeg"/>
       <pubDate>Tue, 1 Jan 2019 12:01:00 +0000</pubDate>
+      <itunes:category text="Technology">
+            <itunes:category text="Information Technology"/>
+            <itunes:category text="Computers"/>
+            <itunes:category text="Operating Systems"/>
+            <itunes:category text="Developers"/>
+      </itunes:category>
       <itunes:duration>01:09</itunes:duration>
       <itunes:order>1</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>19.01 - phpVirtualBox</title>
@@ -36,8 +43,15 @@
       <guid isPermaLink="false">https://josephsamela.github.io/show/media/episodes/19.01 - phpVirtualBox.mp3</guid>
       <enclosure url="http://hosttheworld.org/media/episodes/19.01 - phpVirtualBox.mp3" length="1198080" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jan 2019 12:01:00 +0000</pubDate>
+      <itunes:category text="Technology">
+            <itunes:category text="Information Technology"/>
+            <itunes:category text="Computers"/>
+            <itunes:category text="Operating Systems"/>
+            <itunes:category text="Developers"/>
+      </itunes:category>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:duration>10:21</itunes:duration>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
