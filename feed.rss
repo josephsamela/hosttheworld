@@ -2,6 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Host The World</title>
+    <author>Joseph Samela</author>
     <link>http://hosttheworld.org/feed.rss</link>
     <description>A show about the internet, how it's built and the people who use it.</description>
     <atom:link href="http://hosttheworld.org/feed.rss" rel="self"/>
