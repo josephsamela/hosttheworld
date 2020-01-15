@@ -20,6 +20,7 @@
         <itunes:category text="Operating Systems"/>
         <itunes:category text="Developers"/>
     </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:owner>j3samela@itunes.com</itunes:owner>
     <itunes:block>yes</itunes:block>
     <itunes:complete>yes</itunes:complete>
