@@ -34,9 +34,15 @@ img {
     width: 100%;
     vertical-align: middle;
 }
+.audioplayerartwork {
+	width:100%;
+	height: 200px;
+	background-size: cover;
+	position: relative;
+}
 .audioplayer {
     width: 100%;
-    height: 200px;
+    height: 54px;
     background-size: cover;
     position: relative;
 }
