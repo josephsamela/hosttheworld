@@ -15,6 +15,8 @@
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2019 02:51:47 +0000</lastBuildDate>
     <itunes:author>Joseph Samela</itunes:author>
+    <itunes:subtitle>A show about the internet, how it's built and the people who use it.<itunes:subtitle/>
+     <itunes:summary>Dust off that keyboard - there's work to be done! Every episode Joe completes a project that incorporates a different software tool. His projects are quirky and sometimes laughably bad - but always educational. Join his quest to <i>Host The World!</i></itunes:summary>
     <itunes:image href="http://hosttheworld.org/media/cover.jpg"/>
     <itunes:category text="Technology">
         <itunes:category text="Information Technology"/>
