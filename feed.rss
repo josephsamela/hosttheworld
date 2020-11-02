@@ -29,6 +29,7 @@
         <itunes:name>Joseph Samela</itunes:name>
         <itunes:email>j3samela@icloud.com</itunes:email>
     </itunes:owner>
+    <itunes:block>no</itunes:block>
     <itunes:complete>yes</itunes:complete>
     <item>
       <title>0 - Introduction</title>
